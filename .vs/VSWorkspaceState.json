@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Chess-SFML-master"
+    "\\Proyecto ccomp",
+    "\\Proyecto ccomp\\src"
   ],
-  "SelectedNode": "\\Chess-SFML-master\\src",
+  "SelectedNode": "\\Proyecto ccomp\\src\\board.cpp",
   "PreviewInSolutionExplorer": false
 }
